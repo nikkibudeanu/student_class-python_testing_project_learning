@@ -1,5 +1,7 @@
 import unittest
 from student import Student
+from datetime import timedelta
+
 
 
 class TestStudent(unittest.TestCase):
